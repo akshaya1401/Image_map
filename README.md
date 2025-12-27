@@ -32,7 +32,7 @@ map.html
         <font color="red"><b>Marina Beach</b></font>
     </h1>
     <h3 align="center">
-        <font color="blue"><b>Syed Najmuddin (25011425)</b></font>
+        <font color="blue"><b>SANTHANALAKSHMI</b></font>
     </h3>
     <center>
         <img src="map.png" usemap="#MyCity" width="1500" height="600">
